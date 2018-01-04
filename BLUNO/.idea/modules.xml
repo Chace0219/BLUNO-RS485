@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BLUNO.iml" filepath="$PROJECT_DIR$/BLUNO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bLUNO/bLUNO.iml" filepath="$PROJECT_DIR$/bLUNO/bLUNO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/holoColorPickermaster/holoColorPickermaster.iml" filepath="$PROJECT_DIR$/holoColorPickermaster/holoColorPickermaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meimidmovablecheckboxMovableCheckboxActivity/meimidmovablecheckboxMovableCheckboxActivity.iml" filepath="$PROJECT_DIR$/meimidmovablecheckboxMovableCheckboxActivity/meimidmovablecheckboxMovableCheckboxActivity.iml" />
+    </modules>
+  </component>
+</project>
